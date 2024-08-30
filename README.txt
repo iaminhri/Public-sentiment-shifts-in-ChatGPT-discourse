@@ -1,7 +1,5 @@
 Hello,
 
-I hope you are doing well.
-
 Google Colab Python files contains all the code used in the project.
 Project Paper folder has the paper.
 
